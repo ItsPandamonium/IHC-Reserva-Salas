@@ -15,7 +15,7 @@ Las pantallas se encuentran conectadas para representar el recorrido principal d
 
 ## Prototipo navegable
 
-Enlace de Figma: [Agregar enlace al prototipo]
+Enlace de Figma: (https://www.figma.com/design/NOqVMNS37NzeU76uKIbm5I/IHC---Unidad-2---Prototipo-Reserva-de-Salas?node-id=3312-2&t=yjmvuTARkw73wwG5-1)
 
 ## Evidencias
 
