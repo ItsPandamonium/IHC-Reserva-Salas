@@ -17,6 +17,14 @@ Las pantallas se encuentran conectadas para representar el recorrido principal d
 
 Enlace de Figma: (https://www.figma.com/design/NOqVMNS37NzeU76uKIbm5I/IHC---Unidad-2---Prototipo-Reserva-de-Salas?node-id=3312-2&t=yjmvuTARkw73wwG5-1)
 
+Recorrido del prototipo
+
+El prototipo de media fidelidad desarrollado en Figma permite simular el proceso de reserva de una sala de reuniones mediante seis pantallas conectadas.
+
+El recorrido comienza en «Inicio», donde se selecciona la opción «Reservar una sala». A continuación, se consulta la disponibilidad mediante el calendario y se accede al formulario para ingresar los datos de la solicitud.
+
+Posteriormente, se presenta un resumen de la reserva y, al confirmar la información, el sistema muestra un mensaje de registro exitoso. Finalmente, el usuario puede acceder a «Mis reservas», donde se visualiza el listado de solicitudes registradas.
+
 ## Evidencias
 
 Se incorporarán capturas de las seis pantallas y sus conexiones.
