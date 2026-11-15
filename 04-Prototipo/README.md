@@ -17,7 +17,7 @@ Las pantallas se encuentran conectadas para representar el recorrido principal d
 
 Enlace de Figma: (https://www.figma.com/design/NOqVMNS37NzeU76uKIbm5I/IHC---Unidad-2---Prototipo-Reserva-de-Salas?node-id=3312-2&t=yjmvuTARkw73wwG5-1)
 
-Recorrido del prototipo
+## Recorrido del prototipo
 
 El prototipo de media fidelidad desarrollado en Figma permite simular el proceso de reserva de una sala de reuniones mediante seis pantallas conectadas.
 
