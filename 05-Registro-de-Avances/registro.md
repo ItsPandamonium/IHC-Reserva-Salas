@@ -37,6 +37,6 @@ Diseño de una plataforma web para la reserva de salas de reuniones.
 
 | Integrante | Aportes principales |
 |---|---|
-| Yessenia González | |
+| Yessenia González | Desarrollo de la propuesta inicial del proyecto, elaboración de los diagramas de arquitectura de información y flujo de usuario, diseño de la propuesta visual y construcción del prototipo navegable en Figma. Creación y organización inicial del repositorio en GitHub. |
 | Renato Messina | |
 | Diego Vásquez | |
