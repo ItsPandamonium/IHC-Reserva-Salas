@@ -15,7 +15,7 @@ Las pantallas se encuentran conectadas para representar el recorrido principal d
 
 ## Prototipo navegable
 
-Enlace de Figma: (https://www.figma.com/design/NOqVMNS37NzeU76uKIbm5I/IHC---Unidad-2---Prototipo-Reserva-de-Salas?node-id=3312-2&t=yjmvuTARkw73wwG5-1)
+Enlace de Figma: https://www.figma.com/design/NOqVMNS37NzeU76uKIbm5I/IHC---Unidad-2---Prototipo-Reserva-de-Salas?node-id=3312-2&t=yjmvuTARkw73wwG5-1
 
 ## Recorrido del prototipo
 
@@ -27,4 +27,5 @@ Posteriormente, se presenta un resumen de la reserva y, al confirmar la informac
 
 ## Evidencias
 
-Se incorporarán capturas de las seis pantallas y sus conexiones.
+- `Figura4-Prototipo-Media-Fidelidad.png`: vista general de las seis pantallas y sus conexiones.
+- Carpeta `pantallas/`: capturas individuales de cada pantalla exportadas desde Figma.
