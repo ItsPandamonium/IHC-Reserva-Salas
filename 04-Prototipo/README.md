@@ -28,4 +28,3 @@ Posteriormente, se presenta un resumen de la reserva y, al confirmar la informac
 ## Evidencias
 
 - `Figura4-Prototipo-Media-Fidelidad.png`: vista general de las seis pantallas y sus conexiones.
-- Carpeta `pantallas/`: capturas individuales de cada pantalla exportadas desde Figma.
