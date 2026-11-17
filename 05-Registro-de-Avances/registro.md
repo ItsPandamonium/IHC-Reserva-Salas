@@ -15,7 +15,8 @@ Diseño de una plataforma web para la reserva de salas de reuniones.
 | 6 | Desarrollo de la propuesta visual en Figma | Completado |
 | 7 | Construcción del prototipo de media fidelidad | Completado |
 | 8 | Configuración y comprobación de navegación | Completado |
-| 9 | Organización de evidencias en GitHub | En desarrollo |
+| 9 | Organización de evidencias en GitHub | Completado |
+| 10 | Revisión final del informe y elaboración del archivo resumen | Completado |
 
 ## Decisiones de diseño
 
@@ -25,8 +26,17 @@ Diseño de una plataforma web para la reserva de salas de reuniones.
 - Se utilizó Figma para elaborar la propuesta visual y el prototipo.
 - Se mantuvieron archivos y evidencias organizados en el repositorio.
 
-## Colaboración
+## Acuerdos del equipo
 
-Los integrantes del equipo podrán incorporar sus contribuciones, modificaciones y acuerdos mediante el repositorio compartido.
+- Trabajar sobre un escenario institucional ficticio de reserva de salas.
+- Seleccionar la alternativa de calendario interactivo, complementada con instrucciones breves, indicador de paso y resumen previo a la confirmación (elementos del asistente paso a paso).
+- Desarrollar el prototipo en media fidelidad, centrado en la tarea principal del funcionario; la sección de administración se mantiene en la arquitectura de información, pero no se prototipa en esta versión.
+- Mantener la numeración de figuras del informe (Figuras 1 a 4) en los nombres de archivo del repositorio.
 
-Los aportes individuales se documentarán conforme se realicen.
+## Aportes de los integrantes
+
+| Integrante | Aportes principales |
+|---|---|
+| Yessenia González | |
+| Renato Messina | |
+| Diego Vásquez | |
